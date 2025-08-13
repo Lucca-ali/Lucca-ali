@@ -1,9 +1,13 @@
 <h1 align="center">
+<<<<<<< HEAD
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&letterSpacing=Monospaced&pause=200&color=D75413&center=true&vCenter=true&width=435&lines=Welcome.;I'm+Lucca+ali." alt="Typing SVG"">
+=======
+<img src=""https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&letterSpacing=Monospaced&pause=200&color=D75413&center=true&vCenter=true&width=435&lines=Welcome.;I'm+Lucca+ali." alt="Typing SVG"">
+>>>>>>> parent of f83956a (Update README.md)
 </h1>
 
-
+<h3>
 <!--
 **Lucca-ali/Lucca-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
