@@ -7,7 +7,7 @@ I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
 currently learning C++, SQL and MYSQL
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=1.9&size=1.9&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=19&size=15&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG">
 
 </h4>
 <!--
