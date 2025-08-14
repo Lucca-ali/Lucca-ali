@@ -1,13 +1,13 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&letterSpacing=Monospaced&pause=200&color=D75413&center=true&vCenter=true&width=435&lines=Welcome.;I'm+Lucca+ali." alt="Typing SVG"">
 </h1>
-<h3 align="center">ABOUT ME:</h4>
+<h2 align="center">ABOUT ME:</h2>
 <h4 align="left">
 I'm a brasilian 🇧🇷 Cloud Engeneer
-
+<br>
 currently learning C++, SQL and MYSQL
 
-Portifolio work in progress... 
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG"">
 </h4>
 <!--
 **Lucca-ali/Lucca-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
