@@ -8,7 +8,7 @@ I'm a brasilian 🇧🇷 Cloud Engeneer
 currently learning C++, SQL and MYSQL
 </h4>
 <h4 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&letterSpacing=Monospaced&pause=200&color=D75413&center=true&vCenter=true&width=435&lines=Welcome.;I'm+Lucca+ali." alt="Typing SVG"">
+<img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=50&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG">
 
 </h4>
 <!--
