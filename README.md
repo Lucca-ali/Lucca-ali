@@ -5,14 +5,14 @@
 <h4 align="left">
 I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
+<div align="left">
 currently learning:<img src="https://skillicons.dev/icons?i=aws" height="20" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-
-
+</div>
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=19&size=15&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG">
 
