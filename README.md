@@ -5,7 +5,7 @@
 <h4 align="left">
 I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
-currently learning:<img src="https://skillicons.dev/icons?i=aws" height="12" alt="amazonwebservices logo"  />
+currently learning:<img src="https://skillicons.dev/icons?i=aws" height="24" alt="amazonwebservices logo"  />
 <h4>  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="12" />
