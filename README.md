@@ -5,10 +5,10 @@
 <h4 align="left">
 I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
-<div>
-currently learning:<img src="https://skillicons.dev/icons?i=aws" height="24" alt="amazonwebservices logo"  />
+
+currently learning:<img src="https://skillicons.dev/icons?i=aws" height="20" alt="amazonwebservices logo"  />
 <h4>  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="12" alt="spring logo"  />
   <img width="12" />
