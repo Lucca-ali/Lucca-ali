@@ -6,7 +6,8 @@
 I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
 currently learning C++, SQL and MYSQL
-
+</h4>
+<h4 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&letterSpacing=Monospaced&pause=200&color=D75413&center=true&vCenter=true&width=435&lines=Welcome.;I'm+Lucca+ali." alt="Typing SVG"">
 
 </h4>
