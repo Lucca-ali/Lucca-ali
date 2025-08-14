@@ -7,7 +7,7 @@ I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
 currently learning C++, SQL and MYSQL
 
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG"">
+<img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG"">
 </h4>
 <!--
 **Lucca-ali/Lucca-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
