@@ -6,7 +6,8 @@
 I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
 <div align="left">
-currently learning:<img src="https://skillicons.dev/icons?i=aws" height="20" alt="amazonwebservices logo"  />
+currently learning:
+<img src="https://skillicons.dev/icons?i=aws" height="20" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
