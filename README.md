@@ -26,12 +26,10 @@ Currently Learning:C++ and Its Misteries.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-
+<div align="center">
 
 <h2>MY STATS</h2>
-<br>
-<div align="center">
+
   <img src="https://streak-stats.demolab.com?user=Lucca-ali&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="50" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Lucca-ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </br>
