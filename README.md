@@ -37,7 +37,7 @@ Currently Learning:C++ and Its Misteries.
 </div>
 
 
-<h2 align="center">MY CONTACTS</h2>
+<h2 align="center">✉️MY CONTACTS✉️</h2>
 <div align="center">
 
   <a href="www.linkedin.com/in/lucca-ali-273b6b301" target="_blank">
