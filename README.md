@@ -5,12 +5,12 @@
 <h4 align="left">
 I'm a brasilian 🇧🇷 Cloud Engeneer
 <br>
-<br>
+</br>
 Currently Learning:C++ and Its Misteries.
 <br>
-<br>
+</br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=19&size=15&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG">
-<h2 align="center">NOW LEARNING:</h2>
+<h2 align="center">👩🏻‍💻NOW LEARNING👩🏻‍💻</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -28,7 +28,7 @@ Currently Learning:C++ and Its Misteries.
 </div>
 <div align="center">
 
-<h2>MY STATS</h2>
+<h2>⚡MY STATS⚡</h2>
 
   <img src="https://streak-stats.demolab.com?user=Lucca-ali&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Lucca-ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -37,7 +37,7 @@ Currently Learning:C++ and Its Misteries.
 </div>
 
 
-<h2 align="center">MY CONTACTS:</h2>
+<h2 align="center">MY CONTACTS</h2>
 <div align="center">
 
   <a href="www.linkedin.com/in/lucca-ali-273b6b301" target="_blank">
